@@ -1,6 +1,6 @@
 *IMPORTANTE*
 
-*O aplicativo se encontra no repositório https://github.com/LuizGulhermeGeron/PRODUTO-APP*
+*O aplicativo se encontra no repositório https://github.com/LuizGulhermeGeron/PRODUTO-APP.*
 
 Para usar o banco de dados, com o Docker instalado (https://docs.docker.com/engine/install/), use:
 ```
