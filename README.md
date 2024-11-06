@@ -1,11 +1,9 @@
-Para usar o banco de dados, use:
+Para usar o banco de dados, com o Docker instalado (https://docs.docker.com/engine/install/), use:
 
-> cd database && docker compose up;
+> cd database;
+> docker compose up;
 
-Para usar o servidor, use:
+Para usar o servidor, com o Node.js instalado (https://nodejs.org/en/download/prebuilt-installer/current), use:
 
-> cd servidor && node app.js
-
-Para usar o aplicativo, use:
-
-> cd aplicativo && flutter run
+> cd servidor;
+> node app.js;
